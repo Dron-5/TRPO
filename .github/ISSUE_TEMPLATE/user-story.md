@@ -2,7 +2,7 @@
 name: User Story
 about: Create a report to help us improve
 title: ''
-labels: User Store, ТРПО
+labels: User Store
 assignees: Dron-5
 
 ---
